@@ -10,7 +10,7 @@ At Onefootball we incentivise working in pairs, as we believe in Extreme Program
 
 For this session we will pair through to simple problems in order to assess your coding skills. Let's go through some recommendations:
 
-- Make sure you are in a machine you are confortable with, you favorite keyboard, a **working editor/IDE and runtime** of your favorite language;
+- Make sure you are in a machine you are confortable with, your favorite keyboard, a **working editor/IDE and runtime** of your favorite language;
   - Most of our backend is written in Golang, but we recognize that coding skills go beyond an specific technology/language;
 - Before start we will ask you the share your screen, we want to see you _entire screen_ to ensure isonomy;
 - Be free to search around, look at Stack overflow and documention is part of every-day job;
