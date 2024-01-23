@@ -6,7 +6,7 @@ Let's go through some guidelines and general recommendations for your successful
 
 At Onefootball we incentivise working in pairs, as we believe in Extreme Programming practices and short feedback cycles. Having a pair programming as part of the interview process allow us to have a glimpse of a normal day of work with you.
 
-### Backend positions
+### Backend/Platform positions
 
 For this session we will pair through to simple problems in order to assess your coding skills. Let's go through some recommendations:
 
